@@ -3,7 +3,8 @@
 <h3> Overview </h3>
 Welcome to the Job Portal project! This is a web application built using Node.js and Swagger, providing a platform for job seekers to find and apply for jobs, and for employers to post job listings and manage applications.
 
-Features
+**Features**
+
 User Authentication: Secure user authentication and authorization system.
 Job Listings: Browse through a list of job openings posted by employers.
 Application Management: Job seekers can apply for jobs, and employers can manage applications.
