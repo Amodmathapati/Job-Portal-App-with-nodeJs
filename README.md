@@ -1,6 +1,6 @@
 # Job-Portal-App-with-nodeJs
 
-Overview
+<h3> Overview </h3>
 Welcome to the Job Portal project! This is a web application built using Node.js and Swagger, providing a platform for job seekers to find and apply for jobs, and for employers to post job listings and manage applications.
 
 Features
